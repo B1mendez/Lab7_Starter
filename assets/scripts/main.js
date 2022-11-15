@@ -67,7 +67,6 @@ function initializeServiceWorker() {
   // STEPS B6 ONWARDS WILL BE IN /sw.js
  });
  }
-  return;
 }
 
 /**
